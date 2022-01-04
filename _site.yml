@@ -1,0 +1,9 @@
+name: "sitio"
+output_dir: "."
+navbar:
+  title: "Moce Town"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Acerca de..."
+      href: about.html
